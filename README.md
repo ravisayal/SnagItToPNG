@@ -1,10 +1,8 @@
 # SnagItToPNG
 
-Python Script to convert SNAGIT raw captures to PNG File
+Python Script to convert SNAGIT raw captures to PNG File, the resulting PNG file will also preserve Original File Creation and Last Modified time-stamps.
 
-Converts the SNAGIT raw capture to PNG, it does not copy/bring over the SNAG IT annotations
-use SNAGIT Batch conversion tool to convert with Annotations.
+> Note this script does not copy/bring over the SNAG IT annotations, use SNAGIT Batch conversion tool to convert with Annotations.
 
-The resulting PNG files will also preserve Original File Creation and Last Modified time-stamps.
 
 
